@@ -1,0 +1,6 @@
+allBrowser\browserInitialize.class
+pages\loginpage.class
+stefDef\login2Step.class
+stefDef\LoginStep.class
+TestRunner\TC02_login.class
+TestRunner\TC01_Login.class
